@@ -1,7 +1,4 @@
-/*
-Name-Laksh Mehra
-Batch-TWT
-*/
+
 //Question 1-- Grade Calculation: Write a function that takes a numerical Score (0-100) as an argument and returns a letter grade (A, B, C, D, or F) based on the standard grading scale.
 function gradeCalculate(Score) {
   if (Score >= 90) {
